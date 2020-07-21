@@ -1,0 +1,6 @@
+jupyter
+numpy
+requests
+matplotlib
+pandas
+pillow==3.1.1
